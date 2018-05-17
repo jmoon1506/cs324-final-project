@@ -1,0 +1,4 @@
+6/2/16
+1. Camera
+    a. Jerkiness panning at screen edges
+    b. Star particles disappear when zoomed in and panning to screen edges

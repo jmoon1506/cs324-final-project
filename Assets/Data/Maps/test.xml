@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map width="200" height="200">
+    <player id="1">
+        <name>Nazaran Republic</name>
+        <color>blue</color>
+        <naming>
+        	<shipPrefix>NRS</shipPrefix>
+        </naming>
+    </player>
+
+    <player id="2">
+        <name>Armastus Industrial</name>
+        <color>green</color>
+        <naming>
+        	<shipPrefix>DCS</shipPrefix>
+        </naming>
+    </player>
+
+    <star id="3">
+        <name>Hengtao</name>
+        <color>#ffff99</color>
+        <size>5.0</size>
+        <orbit>
+            <primary>
+                <x>0.0</x>
+                <y>0.0</y>
+            </primary>
+            <periapsis>
+                <x>0.0</x>
+                <y>0.0</y>
+            </periapsis>
+            <eccentricity>0.0</eccentricity>
+            <period>0.0</period>
+            <currentAngle>0.0</currentAngle>
+        </orbit>
+    </star>
+
+    <planet id="4">
+        <name>Endymion</name>
+        <color>#996633</color>
+        <size>2.0</size>
+        <orbit>
+            <primary>
+                <x>0.0</x>
+                <y>0.0</y>
+            </primary>
+            <periapsis>
+                <x>70.0</x>
+                <y>30.0</y>
+            </periapsis>
+            <eccentricity>0.2</eccentricity>
+            <period>10.0</period>
+            <currentAngle>0.785</currentAngle>
+        </orbit>
+    </planet>
+
+    <planet id="5">
+        <name>Luna</name>
+        <color>#666699</color>
+        <size>2.4</size>
+        <orbit>
+            <primary>
+                <x>0.0</x>
+                <y>0.0</y>
+            </primary>
+            <periapsis>
+                <x>30.0</x>
+                <y>20.0</y>
+            </periapsis>
+            <eccentricity>0.2</eccentricity>
+            <period>15.0</period>
+            <currentAngle>1.57</currentAngle>
+        </orbit>
+    </planet>
+
+    <ship id="6">
+        <name>ISV Cheongsang</name>
+        <owner>1</owner>
+        <location>0</location>
+        <orbit>
+            <primary>
+                <x>0.0</x>
+                <y>0.0</y>
+            </primary>
+            <periapsis>
+                <x>60.0</x>
+                <y>10.0</y>
+            </periapsis>
+            <eccentricity>0.35</eccentricity>
+            <period>15.0</period>
+            <currentAngle>0</currentAngle>
+        </orbit>
+    </ship>
+
+    <ship id="7">
+        <name>MV Solane</name>
+        <owner>1</owner>
+        <location>0</location>
+        <orbit>
+            <primary>
+                <x>0.0</x>
+                <y>0.0</y>
+            </primary>
+            <periapsis>
+                <x>100.0</x>
+                <y>0.0</y>
+            </periapsis>
+            <eccentricity>0.2</eccentricity>
+            <period>15.0</period>
+            <currentAngle>1.57</currentAngle>
+        </orbit>
+    </ship>
+</map>

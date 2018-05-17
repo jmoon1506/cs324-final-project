@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 16319f0a4f19f4f4792320b8567a55bc
+timeCreated: 1462763226
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icons_0
+    21300002: icons_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: -53}
+        - {x: -105, y: -87}
+        - {x: 95, y: -87}
+        - {x: 105, y: -86}
+        - {x: 105, y: -42}
+        - {x: 104, y: -41}
+        - {x: -91, y: -41}
+        - {x: -104, y: -47}
+      - - {x: -101, y: 23}
+        - {x: -105, y: 13}
+        - {x: -105, y: -20}
+        - {x: -102, y: -23}
+        - {x: 95, y: -23}
+        - {x: 105, y: -22}
+        - {x: 105, y: 13}
+        - {x: 93, y: 23}
+      - - {x: -105, y: 87}
+        - {x: -105, y: 48}
+        - {x: -98, y: 41}
+        - {x: 90, y: 41}
+        - {x: 105, y: 42}
+        - {x: 105, y: 87}
+    - name: icons_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -65}
+        - {x: -18, y: -79}
+        - {x: -18, y: -99}
+        - {x: 17, y: -99}
+        - {x: 17, y: -65}
+      - - {x: -9, y: 88}
+        - {x: -32, y: 61}
+        - {x: -32, y: -14}
+        - {x: -31, y: -59}
+        - {x: -29, y: -60}
+        - {x: 31, y: -60}
+        - {x: 32, y: -49}
+        - {x: 32, y: 60}
+        - {x: 9, y: 88}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

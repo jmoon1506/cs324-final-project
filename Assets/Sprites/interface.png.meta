@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: e219a95a752105f48906124555688c1e
+timeCreated: 1463443272
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: interface_0
+    21300002: interface_1
+    21300004: interface_2
+    21300006: interface_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: interface_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 45}
+        - {x: -80, y: 38}
+        - {x: -70, y: 15}
+        - {x: -6, y: -45}
+        - {x: 80, y: -45}
+        - {x: 80, y: 45}
+    - name: interface_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 934
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 45}
+        - {x: -80, y: -45}
+        - {x: 80, y: -45}
+        - {x: 80, y: 45}
+    - name: interface_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 744
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 73}
+        - {x: 41, y: 90}
+        - {x: -40, y: 90}
+        - {x: -90, y: 49}
+        - {x: -90, y: -42}
+        - {x: -62, y: -84}
+        - {x: -36, y: -90}
+        - {x: 41, y: -90}
+        - {x: 77, y: -67}
+        - {x: 90, y: -49}
+        - {x: 90, y: 38}
+    - name: interface_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 722
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 67}
+        - {x: 39, y: 100}
+        - {x: -37, y: 100}
+        - {x: -72, y: 82}
+        - {x: -97, y: 57}
+        - {x: -100, y: 41}
+        - {x: -100, y: -38}
+        - {x: -73, y: -84}
+        - {x: -47, y: -100}
+        - {x: 40, y: -100}
+        - {x: 58, y: -98}
+        - {x: 81, y: -70}
+        - {x: 100, y: -35}
+        - {x: 100, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
